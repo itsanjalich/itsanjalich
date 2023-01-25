@@ -20,6 +20,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=helloanjalig&icon=4&color=1)](https://visitcount.itsvg.in)
+![Profile views counter](https://komarev.com/ghpvc/?username=helloanjalig&&style=flat-square)  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
