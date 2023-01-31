@@ -1,3 +1,8 @@
+# 💫 About Me:
+Hi there! I am a B.Tech CSE final year student with a passion for using technology to solve complex problems and make a positive impact on the world. I have developed a strong foundation in computer science and engineering through my coursework and hands-on projects. My technical skills include proficiency in programming languages such as Java, Python, and C++, as well as experience in software development, databases, and computer networks.
+When I'm not coding, I enjoy exploring new technologies, reading about the latest advancements in my field, and volunteering at local tech events. I am always seeking new challenges and opportunities to learn and grow as a professional.
+Feel free to reach out and connect with me! I'm always open to discussing new ideas and opportunities.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helloanjalig) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@helloanjalig) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/helloanjaliig) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCCHNi8d4aPGznZcbB1nqKEA) 
 
