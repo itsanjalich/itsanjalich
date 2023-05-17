@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi there! I am a B.Tech CSE final year student with a passion for using technology to solve complex problems and make a positive impact on the world. I have developed a strong foundation in computer science and engineering through my coursework and hands-on projects. My technical skills include proficiency in programming languages such as Java, Python, and C++, as well as experience in software development, databases, and computer networks.
+
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
+💙 Hi there! I am a B.Tech CSE final year student with a passion for using technology to solve complex problems and make a positive impact on the world. I have developed a strong foundation in computer science and engineering through my coursework and hands-on projects. My technical skills include proficiency in programming languages such as Java, Python, and C++, as well as experience in software development, databases, and computer networks.
 When I'm not coding, I enjoy exploring new technologies, reading about the latest advancements in my field, and volunteering at local tech events. I am always seeking new challenges and opportunities to learn and grow as a professional.
 Feel free to reach out and connect with me! I'm always open to discussing new ideas and opportunities.
 
