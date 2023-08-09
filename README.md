@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
-## About Me:
+## About Me :
 
 Greetings! 👋 I'm Anjali, a tech enthusiast driven by a profound passion for coding and a fascination for the world of AI.
 
