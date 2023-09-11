@@ -11,5 +11,5 @@ I'm Anjali Chaudhary, a computer science student from INDIA.
   
   💬 Reach me by email or LinkedIn! [meanjaliofficials@gmail.com](mailto:meanjaliofficials@gmail.com) |  [www.linkedin.com/in/itsanjalich](https://www.linkedin.com/in/itsanjalich).
 
-  🌐 You can visit my website at [cvbyanjali.web.app](https://cvbyanjali.web.app/).
+  🌐 You can visit my website at [cvbyanjali.web.app](https://cvbyanjali.web.app/)
 
