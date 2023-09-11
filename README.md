@@ -7,7 +7,7 @@ I'm Anjali Chaudhary, a computer science student from INDIA.
 - 🌱 I'm passionate about web development.
 - 🎥 I enjoy creating content on platforms like YouTube and Twitch.
 
-  💬 Feel free to reach out to me via email at [meanjaliofficials@gmail.com](mailto:meanjaliofficials@gmail.com) or connect with me on [www.linkedin.com/in/itsanjalich](https://www.linkedin.com/in/itsanjalich).
+  💬 Reach me by email or LinkedIn! [meanjaliofficials@gmail.com](mailto:meanjaliofficials@gmail.com) |  [www.linkedin.com/in/itsanjalich](https://www.linkedin.com/in/itsanjalich).
   
   🌐 You can visit my website at [cvbyanjali.web.app](https://cvbyanjali.web.app/).
 
